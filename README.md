@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhallymer%2FHTML_CSS_JS_Python_half-hour_summary_course&psig=AOvVaw25cGh74HgGDMk8c4pUp6pS&ust=1702492968488000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDM5eDGioMDFQAAAAAdAAAAABAD)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhallymer%2FHTML_CSS_JS_Python_half-hour_summary_course&psig=AOvVaw25cGh74HgGDMk8c4pUp6pS&ust=1702492968488000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDM5eDGioMDFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Zeynep Aksu</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
@@ -24,6 +24,3 @@
 
 
 
-
-
-![snake gif](https://github.com/Zeynep3435/Zeynep3435/blob/output/github-contribution-grid-snake.gif)
