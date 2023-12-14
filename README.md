@@ -1,6 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhallymer%2FHTML_CSS_JS_Python_half-hour_summary_course&psig=AOvVaw25cGh74HgGDMk8c4pUp6pS&ust=1702492968488000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDM5eDGioMDFQAAAAAdAAAAABAD)
+[![MasterHead](https://images.app.goo.gl/kvvDcYKR2FQzRZGZ8)
 <h1 align="center">Hi 👋, I'm Zeynep Aksu</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate Back End Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Back End**
 
@@ -19,7 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepaksu&show_icons=true&locale=en" alt="zeynepaksu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepaksu&" alt="zeynepaksu" /></p>
-
 
 
 
