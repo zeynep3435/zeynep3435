@@ -1,4 +1,3 @@
-[![MasterHead](https://images.app.goo.gl/kvvDcYKR2FQzRZGZ8)
 <h1 align="center">Hi 👋, I'm Zeynep Aksu</h1>
 <h3 align="center">A passionate Back End Developer from Türkiye</h3>
 
